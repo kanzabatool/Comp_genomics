@@ -1,0 +1,1123 @@
+TCGA_ID,Study,Grade,Age (years at diagnosis),Pan-Glioma DNA Methylation Cluster
+TCGA-CS-4938,Brain Lower Grade Glioma,G2,31,LGm2
+TCGA-CS-4941,Brain Lower Grade Glioma,G3,67,LGm5
+TCGA-CS-4942,Brain Lower Grade Glioma,G3,44,LGm2
+TCGA-CS-4943,Brain Lower Grade Glioma,G3,37,LGm2
+TCGA-CS-4944,Brain Lower Grade Glioma,G2,50,LGm2
+TCGA-CS-5390,Brain Lower Grade Glioma,G2,47,LGm3
+TCGA-CS-5393,Brain Lower Grade Glioma,G3,39,LGm2
+TCGA-CS-5394,Brain Lower Grade Glioma,G3,40,LGm3
+TCGA-CS-5395,Brain Lower Grade Glioma,G2,43,LGm5
+TCGA-CS-5396,Brain Lower Grade Glioma,G3,53,LGm3
+TCGA-CS-5397,Brain Lower Grade Glioma,G3,54,LGm5
+TCGA-CS-6186,Brain Lower Grade Glioma,G3,58,LGm4
+TCGA-CS-6188,Brain Lower Grade Glioma,G3,48,LGm4
+TCGA-CS-6290,Brain Lower Grade Glioma,G3,31,LGm2
+TCGA-CS-6665,Brain Lower Grade Glioma,G3,51,LGm1
+TCGA-CS-6666,Brain Lower Grade Glioma,G3,22,LGm2
+TCGA-CS-6667,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-CS-6668,Brain Lower Grade Glioma,G2,57,LGm3
+TCGA-CS-6669,Brain Lower Grade Glioma,G2,26,LGm6
+TCGA-CS-6670,Brain Lower Grade Glioma,G3,43,LGm3
+TCGA-DB-5270,Brain Lower Grade Glioma,G3,38,LGm2
+TCGA-DB-5273,Brain Lower Grade Glioma,G3,33,LGm2
+TCGA-DB-5274,Brain Lower Grade Glioma,G3,37,LGm3
+TCGA-DB-5275,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-DB-5276,Brain Lower Grade Glioma,G3,32,LGm2
+TCGA-DB-5277,Brain Lower Grade Glioma,G3,34,LGm1
+TCGA-DB-5278,Brain Lower Grade Glioma,G2,17,LGm2
+TCGA-DB-5279,Brain Lower Grade Glioma,G2,59,LGm3
+TCGA-DB-5280,Brain Lower Grade Glioma,G2,43,LGm2
+TCGA-DB-5281,Brain Lower Grade Glioma,G3,61,LGm2
+TCGA-DB-A4X9,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-DB-A4XA,Brain Lower Grade Glioma,G2,30,LGm2
+TCGA-DB-A4XB,Brain Lower Grade Glioma,G3,38,LGm1
+TCGA-DB-A4XC,Brain Lower Grade Glioma,G2,26,LGm2
+TCGA-DB-A4XD,Brain Lower Grade Glioma,G3,32,LGm2
+TCGA-DB-A4XE,Brain Lower Grade Glioma,G3,27,LGm2
+TCGA-DB-A4XF,Brain Lower Grade Glioma,G3,41,LGm2
+TCGA-DB-A4XG,Brain Lower Grade Glioma,G3,34,LGm3
+TCGA-DB-A4XH,Brain Lower Grade Glioma,G2,53,LGm3
+TCGA-DB-A64L,Brain Lower Grade Glioma,G2,67,LGm3
+TCGA-DB-A64O,Brain Lower Grade Glioma,G2,59,LGm5
+TCGA-DB-A64P,Brain Lower Grade Glioma,G3,40,LGm3
+TCGA-DB-A64Q,Brain Lower Grade Glioma,G2,31,LGm3
+TCGA-DB-A64R,Brain Lower Grade Glioma,G2,24,LGm2
+TCGA-DB-A64S,Brain Lower Grade Glioma,G2,20,LGm2
+TCGA-DB-A64U,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-DB-A64V,Brain Lower Grade Glioma,G2,54,LGm3
+TCGA-DB-A64W,Brain Lower Grade Glioma,G3,65,LGm3
+TCGA-DB-A64X,Brain Lower Grade Glioma,G3,56,LGm2
+TCGA-DB-A75K,Brain Lower Grade Glioma,G3,55,LGm3
+TCGA-DB-A75L,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-DB-A75M,Brain Lower Grade Glioma,G2,47,LGm2
+TCGA-DB-A75O,Brain Lower Grade Glioma,G3,29,LGm2
+TCGA-DB-A75P,Brain Lower Grade Glioma,G2,25,LGm6
+TCGA-DH-5140,Brain Lower Grade Glioma,G3,38,LGm6
+TCGA-DH-5141,Brain Lower Grade Glioma,G3,32,LGm3
+TCGA-DH-5142,Brain Lower Grade Glioma,G3,29,LGm1
+TCGA-DH-5143,Brain Lower Grade Glioma,G3,30,LGm2
+TCGA-DH-5144,Brain Lower Grade Glioma,G3,56,LGm3
+TCGA-DH-A669,Brain Lower Grade Glioma,G3,70,LGm3
+TCGA-DH-A66B,Brain Lower Grade Glioma,G3,52,LGm2
+TCGA-DH-A66D,Brain Lower Grade Glioma,G3,43,LGm2
+TCGA-DH-A66F,Brain Lower Grade Glioma,G2,49,LGm3
+TCGA-DH-A66G,Brain Lower Grade Glioma,G3,49,LGm2
+TCGA-DH-A7UR,Brain Lower Grade Glioma,G3,59,LGm3
+TCGA-DH-A7US,Brain Lower Grade Glioma,G2,50,LGm2
+TCGA-DH-A7UT,Brain Lower Grade Glioma,G3,30,LGm1
+TCGA-DH-A7UU,Brain Lower Grade Glioma,G3,43,LGm2
+TCGA-DH-A7UV,Brain Lower Grade Glioma,G3,49,LGm2
+TCGA-DU-5847,Brain Lower Grade Glioma,G3,34,LGm5
+TCGA-DU-5849,Brain Lower Grade Glioma,G2,48,LGm3
+TCGA-DU-5851,Brain Lower Grade Glioma,G3,40,LGm2
+TCGA-DU-5852,Brain Lower Grade Glioma,G3,61,LGm5
+TCGA-DU-5853,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-DU-5854,Brain Lower Grade Glioma,G3,57,LGm5
+TCGA-DU-5855,Brain Lower Grade Glioma,G3,49,LGm2
+TCGA-DU-5870,Brain Lower Grade Glioma,G2,34,LGm3
+TCGA-DU-5871,Brain Lower Grade Glioma,G2,37,LGm2
+TCGA-DU-5872,Brain Lower Grade Glioma,G2,43,LGm2
+TCGA-DU-5874,Brain Lower Grade Glioma,G2,62,LGm3
+TCGA-DU-6392,Brain Lower Grade Glioma,G3,35,LGm6
+TCGA-DU-6393,Brain Lower Grade Glioma,G3,66,LGm3
+TCGA-DU-6394,Brain Lower Grade Glioma,G3,53,LGm3
+TCGA-DU-6395,Brain Lower Grade Glioma,G2,31,LGm2
+TCGA-DU-6396,Brain Lower Grade Glioma,G3,31,LGm1
+TCGA-DU-6397,Brain Lower Grade Glioma,G3,45,LGm3
+TCGA-DU-6399,Brain Lower Grade Glioma,G2,54,LGm2
+TCGA-DU-6400,Brain Lower Grade Glioma,G2,66,LGm3
+TCGA-DU-6401,Brain Lower Grade Glioma,G2,31,LGm2
+TCGA-DU-6402,Brain Lower Grade Glioma,G3,52,LGm4
+TCGA-DU-6403,Brain Lower Grade Glioma,G3,60,LGm5
+TCGA-DU-6404,Brain Lower Grade Glioma,G3,24,LGm6
+TCGA-DU-6405,Brain Lower Grade Glioma,G3,51,LGm4
+TCGA-DU-6406,Brain Lower Grade Glioma,G3,59,LGm4
+TCGA-DU-6407,Brain Lower Grade Glioma,G2,35,LGm2
+TCGA-DU-6408,Brain Lower Grade Glioma,G3,23,LGm1
+TCGA-DU-6410,Brain Lower Grade Glioma,G3,56,LGm3
+TCGA-DU-6542,Brain Lower Grade Glioma,G3,25,LGm2
+TCGA-DU-7006,Brain Lower Grade Glioma,G3,60,LGm5
+TCGA-DU-7007,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-DU-7008,Brain Lower Grade Glioma,G2,41,LGm2
+TCGA-DU-7009,Brain Lower Grade Glioma,G2,32,LGm3
+TCGA-DU-7010,Brain Lower Grade Glioma,G3,58,LGm1
+TCGA-DU-7011,Brain Lower Grade Glioma,G2,25,LGm2
+TCGA-DU-7012,Brain Lower Grade Glioma,G3,74,LGm5
+TCGA-DU-7013,Brain Lower Grade Glioma,G3,59,LGm4
+TCGA-DU-7014,Brain Lower Grade Glioma,G2,59,LGm2
+TCGA-DU-7015,Brain Lower Grade Glioma,G2,41,LGm2
+TCGA-DU-7018,Brain Lower Grade Glioma,G3,57,LGm3
+TCGA-DU-7019,Brain Lower Grade Glioma,G3,39,LGm2
+TCGA-DU-7290,Brain Lower Grade Glioma,G3,45,LGm5
+TCGA-DU-7292,Brain Lower Grade Glioma,G3,69,LGm4
+TCGA-DU-7294,Brain Lower Grade Glioma,G2,53,LGm3
+TCGA-DU-7298,Brain Lower Grade Glioma,G3,38,LGm2
+TCGA-DU-7299,Brain Lower Grade Glioma,G3,33,LGm2
+TCGA-DU-7300,Brain Lower Grade Glioma,G3,53,LGm3
+TCGA-DU-7301,Brain Lower Grade Glioma,G2,53,LGm2
+TCGA-DU-7302,Brain Lower Grade Glioma,G3,48,LGm3
+TCGA-DU-7304,Brain Lower Grade Glioma,G3,43,LGm2
+TCGA-DU-7306,Brain Lower Grade Glioma,G2,67,LGm2
+TCGA-DU-7309,Brain Lower Grade Glioma,G3,41,LGm2
+TCGA-DU-8158,Brain Lower Grade Glioma,G3,57,LGm5
+TCGA-DU-8161,Brain Lower Grade Glioma,G3,63,LGm5
+TCGA-DU-8162,Brain Lower Grade Glioma,G3,61,LGm5
+TCGA-DU-8163,Brain Lower Grade Glioma,G3,29,LGm2
+TCGA-DU-8164,Brain Lower Grade Glioma,G2,51,LGm3
+TCGA-DU-8165,Brain Lower Grade Glioma,G3,60,LGm5
+TCGA-DU-8166,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-DU-8167,Brain Lower Grade Glioma,G2,69,LGm2
+TCGA-DU-8168,Brain Lower Grade Glioma,G3,55,LGm3
+TCGA-DU-A5TP,Brain Lower Grade Glioma,G3,33,LGm1
+TCGA-DU-A5TR,Brain Lower Grade Glioma,G2,51,LGm2
+TCGA-DU-A5TS,Brain Lower Grade Glioma,G2,42,LGm2
+TCGA-DU-A5TT,Brain Lower Grade Glioma,G3,70,LGm5
+TCGA-DU-A5TU,Brain Lower Grade Glioma,G2,62,LGm3
+TCGA-DU-A5TW,Brain Lower Grade Glioma,G3,33,LGm2
+TCGA-DU-A5TY,Brain Lower Grade Glioma,G3,46,LGm5
+TCGA-DU-A6S2,Brain Lower Grade Glioma,G2,37,LGm2
+TCGA-DU-A6S3,Brain Lower Grade Glioma,G2,60,LGm3
+TCGA-DU-A6S6,Brain Lower Grade Glioma,G2,35,LGm2
+TCGA-DU-A6S7,Brain Lower Grade Glioma,G3,27,LGm2
+TCGA-DU-A6S8,Brain Lower Grade Glioma,G3,74,LGm3
+TCGA-DU-A76K,Brain Lower Grade Glioma,G2,87,LGm4
+TCGA-DU-A76L,Brain Lower Grade Glioma,G3,54,LGm5
+TCGA-DU-A76O,Brain Lower Grade Glioma,G2,30,LGm2
+TCGA-DU-A76R,Brain Lower Grade Glioma,G3,51,LGm3
+TCGA-DU-A7T6,Brain Lower Grade Glioma,G3,73,LGm3
+TCGA-DU-A7T8,Brain Lower Grade Glioma,G3,35,LGm2
+TCGA-DU-A7TA,Brain Lower Grade Glioma,G2,32,LGm2
+TCGA-DU-A7TB,Brain Lower Grade Glioma,G2,56,LGm6
+TCGA-DU-A7TC,Brain Lower Grade Glioma,G2,32,LGm2
+TCGA-DU-A7TD,Brain Lower Grade Glioma,G3,52,LGm5
+TCGA-DU-A7TG,Brain Lower Grade Glioma,G2,40,LGm1
+TCGA-DU-A7TI,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-DU-A7TJ,Brain Lower Grade Glioma,G3,55,LGm5
+TCGA-E1-5302,Brain Lower Grade Glioma,G3,41,LGm2
+TCGA-E1-5303,Brain Lower Grade Glioma,G3,38,LGm2
+TCGA-E1-5304,Brain Lower Grade Glioma,G3,42,LGm1
+TCGA-E1-5305,Brain Lower Grade Glioma,G3,34,LGm2
+TCGA-E1-5307,Brain Lower Grade Glioma,G3,62,LGm3
+TCGA-E1-5311,Brain Lower Grade Glioma,G3,31,LGm3
+TCGA-E1-5318,Brain Lower Grade Glioma,G2,42,LGm3
+TCGA-E1-5319,Brain Lower Grade Glioma,G2,48,LGm3
+TCGA-E1-5322,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-E1-A7YD,Brain Lower Grade Glioma,NA,NA,LGm5
+TCGA-E1-A7YE,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-E1-A7YH,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-E1-A7YI,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-E1-A7YJ,Brain Lower Grade Glioma,NA,NA,LGm4
+TCGA-E1-A7YK,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-E1-A7YL,Brain Lower Grade Glioma,NA,NA,LGm5
+TCGA-E1-A7YM,Brain Lower Grade Glioma,NA,NA,LGm5
+TCGA-E1-A7YN,Brain Lower Grade Glioma,NA,NA,LGm5
+TCGA-E1-A7YO,Brain Lower Grade Glioma,G3,45,LGm3
+TCGA-E1-A7YQ,Brain Lower Grade Glioma,NA,NA,LGm4
+TCGA-E1-A7YS,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-E1-A7YU,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-E1-A7YV,Brain Lower Grade Glioma,G3,26,LGm1
+TCGA-E1-A7YW,Brain Lower Grade Glioma,G2,28,LGm2
+TCGA-E1-A7YY,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-E1-A7Z2,Brain Lower Grade Glioma,NA,NA,LGm5
+TCGA-E1-A7Z3,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-E1-A7Z4,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-E1-A7Z6,Brain Lower Grade Glioma,G2,41,LGm2
+TCGA-EZ-7264,Brain Lower Grade Glioma,G2,47,LGm3
+TCGA-F6-A8O3,Brain Lower Grade Glioma,G2,34,LGm3
+TCGA-F6-A8O4,Brain Lower Grade Glioma,G2,44,LGm2
+TCGA-FG-5962,Brain Lower Grade Glioma,G3,54,LGm3
+TCGA-FG-5963,Brain Lower Grade Glioma,G3,23,LGm6
+TCGA-FG-5964,Brain Lower Grade Glioma,G2,62,LGm3
+TCGA-FG-5965,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-FG-6688,Brain Lower Grade Glioma,G3,59,LGm5
+TCGA-FG-6689,Brain Lower Grade Glioma,G2,30,LGm2
+TCGA-FG-6690,Brain Lower Grade Glioma,G2,70,LGm2
+TCGA-FG-6691,Brain Lower Grade Glioma,G2,23,LGm2
+TCGA-FG-6692,Brain Lower Grade Glioma,G3,63,LGm4
+TCGA-FG-7634,Brain Lower Grade Glioma,G2,28,LGm2
+TCGA-FG-7636,Brain Lower Grade Glioma,G3,48,LGm2
+TCGA-FG-7637,Brain Lower Grade Glioma,G2,49,LGm3
+TCGA-FG-7638,Brain Lower Grade Glioma,G3,31,LGm3
+TCGA-FG-7641,Brain Lower Grade Glioma,G2,31,LGm3
+TCGA-FG-7643,Brain Lower Grade Glioma,G2,49,LGm5
+TCGA-FG-8181,Brain Lower Grade Glioma,G3,23,LGm6
+TCGA-FG-8182,Brain Lower Grade Glioma,G2,35,LGm2
+TCGA-FG-8185,Brain Lower Grade Glioma,G3,37,LGm2
+TCGA-FG-8186,Brain Lower Grade Glioma,G3,42,LGm2
+TCGA-FG-8187,Brain Lower Grade Glioma,G2,31,LGm2
+TCGA-FG-8188,Brain Lower Grade Glioma,G2,41,LGm2
+TCGA-FG-8189,Brain Lower Grade Glioma,G2,33,LGm6
+TCGA-FG-8191,Brain Lower Grade Glioma,G3,30,LGm2
+TCGA-FG-A4MT,Brain Lower Grade Glioma,G2,27,LGm2
+TCGA-FG-A4MU,Brain Lower Grade Glioma,G3,58,LGm5
+TCGA-FG-A4MW,Brain Lower Grade Glioma,G3,63,LGm4
+TCGA-FG-A4MX,Brain Lower Grade Glioma,G2,47,LGm2
+TCGA-FG-A4MY,Brain Lower Grade Glioma,G2,44,LGm2
+TCGA-FG-A60J,Brain Lower Grade Glioma,G2,47,LGm2
+TCGA-FG-A60K,Brain Lower Grade Glioma,G2,34,LGm2
+TCGA-FG-A60L,Brain Lower Grade Glioma,G2,34,LGm2
+TCGA-FG-A6IZ,Brain Lower Grade Glioma,G2,60,LGm3
+TCGA-FG-A6J1,Brain Lower Grade Glioma,G2,44,LGm3
+TCGA-FG-A6J3,Brain Lower Grade Glioma,G3,52,LGm1
+TCGA-FG-A70Y,Brain Lower Grade Glioma,G2,20,LGm2
+TCGA-FG-A70Z,Brain Lower Grade Glioma,G3,53,LGm5
+TCGA-FG-A710,Brain Lower Grade Glioma,G2,50,LGm3
+TCGA-FG-A711,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-FG-A713,Brain Lower Grade Glioma,G2,74,LGm3
+TCGA-FG-A87N,Brain Lower Grade Glioma,G3,37,LGm1
+TCGA-FG-A87Q,Brain Lower Grade Glioma,G3,61,LGm4
+TCGA-FN-7833,Brain Lower Grade Glioma,G3,25,LGm2
+TCGA-HT-7467,Brain Lower Grade Glioma,G2,54,LGm2
+TCGA-HT-7468,Brain Lower Grade Glioma,G3,30,LGm3
+TCGA-HT-7469,Brain Lower Grade Glioma,G3,30,LGm6
+TCGA-HT-7470,Brain Lower Grade Glioma,G3,37,LGm2
+TCGA-HT-7471,Brain Lower Grade Glioma,G3,37,LGm3
+TCGA-HT-7472,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-HT-7473,Brain Lower Grade Glioma,G2,28,LGm2
+TCGA-HT-7474,Brain Lower Grade Glioma,G2,52,LGm2
+TCGA-HT-7475,Brain Lower Grade Glioma,G3,67,LGm2
+TCGA-HT-7476,Brain Lower Grade Glioma,G2,26,LGm2
+TCGA-HT-7477,Brain Lower Grade Glioma,G3,62,LGm1
+TCGA-HT-7478,Brain Lower Grade Glioma,G2,36,LGm2
+TCGA-HT-7479,Brain Lower Grade Glioma,G3,44,LGm2
+TCGA-HT-7480,Brain Lower Grade Glioma,G2,33,LGm3
+TCGA-HT-7481,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-HT-7482,Brain Lower Grade Glioma,G2,18,LGm2
+TCGA-HT-7483,Brain Lower Grade Glioma,G2,14,LGm2
+TCGA-HT-7485,Brain Lower Grade Glioma,G2,42,LGm2
+TCGA-HT-7601,Brain Lower Grade Glioma,G3,30,LGm1
+TCGA-HT-7602,Brain Lower Grade Glioma,G2,21,LGm2
+TCGA-HT-7603,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-HT-7604,Brain Lower Grade Glioma,G2,50,LGm2
+TCGA-HT-7605,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-HT-7606,Brain Lower Grade Glioma,G2,30,LGm2
+TCGA-HT-7607,Brain Lower Grade Glioma,G2,61,LGm3
+TCGA-HT-7608,Brain Lower Grade Glioma,G2,61,LGm3
+TCGA-HT-7609,Brain Lower Grade Glioma,G3,34,LGm2
+TCGA-HT-7610,Brain Lower Grade Glioma,G2,25,LGm2
+TCGA-HT-7611,Brain Lower Grade Glioma,G2,36,LGm2
+TCGA-HT-7616,Brain Lower Grade Glioma,G3,75,LGm3
+TCGA-HT-7620,Brain Lower Grade Glioma,G3,40,LGm2
+TCGA-HT-7676,Brain Lower Grade Glioma,G2,26,LGm2
+TCGA-HT-7677,Brain Lower Grade Glioma,G3,53,LGm3
+TCGA-HT-7680,Brain Lower Grade Glioma,G2,32,LGm6
+TCGA-HT-7681,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-HT-7684,Brain Lower Grade Glioma,G3,58,LGm2
+TCGA-HT-7686,Brain Lower Grade Glioma,G3,29,LGm1
+TCGA-HT-7687,Brain Lower Grade Glioma,G3,74,LGm3
+TCGA-HT-7688,Brain Lower Grade Glioma,G3,59,LGm2
+TCGA-HT-7689,Brain Lower Grade Glioma,G2,58,LGm1
+TCGA-HT-7690,Brain Lower Grade Glioma,G3,29,LGm2
+TCGA-HT-7691,Brain Lower Grade Glioma,G2,31,LGm6
+TCGA-HT-7692,Brain Lower Grade Glioma,G2,43,LGm2
+TCGA-HT-7693,Brain Lower Grade Glioma,G2,51,LGm2
+TCGA-HT-7694,Brain Lower Grade Glioma,G3,60,LGm3
+TCGA-HT-7695,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-HT-7854,Brain Lower Grade Glioma,G2,62,LGm6
+TCGA-HT-7855,Brain Lower Grade Glioma,G3,39,LGm2
+TCGA-HT-7856,Brain Lower Grade Glioma,G3,35,LGm2
+TCGA-HT-7857,Brain Lower Grade Glioma,G3,24,LGm6
+TCGA-HT-7858,Brain Lower Grade Glioma,G2,28,LGm2
+TCGA-HT-7860,Brain Lower Grade Glioma,G3,60,LGm4
+TCGA-HT-7873,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-HT-7874,Brain Lower Grade Glioma,G3,41,LGm2
+TCGA-HT-7875,Brain Lower Grade Glioma,G2,56,LGm3
+TCGA-HT-7877,Brain Lower Grade Glioma,G2,20,LGm2
+TCGA-HT-7879,Brain Lower Grade Glioma,G3,31,LGm2
+TCGA-HT-7880,Brain Lower Grade Glioma,G2,30,LGm1
+TCGA-HT-7881,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-HT-7882,Brain Lower Grade Glioma,G3,66,LGm5
+TCGA-HT-7884,Brain Lower Grade Glioma,G2,44,LGm2
+TCGA-HT-7902,Brain Lower Grade Glioma,G2,30,LGm1
+TCGA-HT-8010,Brain Lower Grade Glioma,G2,64,LGm2
+TCGA-HT-8011,Brain Lower Grade Glioma,G3,55,LGm5
+TCGA-HT-8012,Brain Lower Grade Glioma,G2,30,LGm3
+TCGA-HT-8013,Brain Lower Grade Glioma,G2,37,LGm2
+TCGA-HT-8015,Brain Lower Grade Glioma,G2,21,LGm6
+TCGA-HT-8018,Brain Lower Grade Glioma,G2,40,LGm1
+TCGA-HT-8019,Brain Lower Grade Glioma,G3,34,LGm6
+TCGA-HT-8104,Brain Lower Grade Glioma,G3,51,LGm4
+TCGA-HT-8105,Brain Lower Grade Glioma,G3,54,LGm3
+TCGA-HT-8106,Brain Lower Grade Glioma,G3,53,LGm1
+TCGA-HT-8107,Brain Lower Grade Glioma,G2,62,LGm6
+TCGA-HT-8108,Brain Lower Grade Glioma,G2,26,LGm2
+TCGA-HT-8109,Brain Lower Grade Glioma,G3,64,LGm3
+TCGA-HT-8110,Brain Lower Grade Glioma,G3,57,LGm5
+TCGA-HT-8111,Brain Lower Grade Glioma,G3,32,LGm1
+TCGA-HT-8113,Brain Lower Grade Glioma,G2,49,LGm2
+TCGA-HT-8114,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-HT-8558,Brain Lower Grade Glioma,G2,29,LGm6
+TCGA-HT-8563,Brain Lower Grade Glioma,G3,30,LGm1
+TCGA-HT-8564,Brain Lower Grade Glioma,G3,47,LGm6
+TCGA-HT-A4DS,Brain Lower Grade Glioma,G3,55,LGm5
+TCGA-HT-A4DV,Brain Lower Grade Glioma,G3,51,LGm2
+TCGA-HT-A5R5,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-HT-A5R7,Brain Lower Grade Glioma,G3,33,LGm1
+TCGA-HT-A5R9,Brain Lower Grade Glioma,G3,48,LGm3
+TCGA-HT-A5RA,Brain Lower Grade Glioma,G3,65,LGm5
+TCGA-HT-A5RB,Brain Lower Grade Glioma,G2,24,LGm2
+TCGA-HT-A5RC,Brain Lower Grade Glioma,G3,70,LGm4
+TCGA-HT-A614,Brain Lower Grade Glioma,G2,47,LGm1
+TCGA-HT-A615,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-HT-A616,Brain Lower Grade Glioma,G2,36,LGm2
+TCGA-HT-A617,Brain Lower Grade Glioma,G2,47,LGm4
+TCGA-HT-A618,Brain Lower Grade Glioma,G3,37,LGm1
+TCGA-HT-A619,Brain Lower Grade Glioma,G3,51,LGm3
+TCGA-HT-A61A,Brain Lower Grade Glioma,G2,20,LGm1
+TCGA-HT-A61B,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-HT-A61C,Brain Lower Grade Glioma,G3,66,LGm5
+TCGA-HT-A74H,Brain Lower Grade Glioma,G3,62,LGm5
+TCGA-HT-A74J,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-HT-A74K,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-HT-A74L,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-HT-A74O,Brain Lower Grade Glioma,G3,34,LGm2
+TCGA-HW-7486,Brain Lower Grade Glioma,G2,37,LGm2
+TCGA-HW-7487,Brain Lower Grade Glioma,G2,39,LGm3
+TCGA-HW-7489,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-HW-7490,Brain Lower Grade Glioma,G2,41,LGm2
+TCGA-HW-7491,Brain Lower Grade Glioma,G2,35,LGm3
+TCGA-HW-7493,Brain Lower Grade Glioma,G2,40,LGm2
+TCGA-HW-7495,Brain Lower Grade Glioma,G2,45,LGm2
+TCGA-HW-8319,Brain Lower Grade Glioma,G3,34,LGm1
+TCGA-HW-8320,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-HW-8321,Brain Lower Grade Glioma,G3,31,LGm2
+TCGA-HW-8322,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-HW-A5KJ,Brain Lower Grade Glioma,G3,68,LGm3
+TCGA-HW-A5KK,Brain Lower Grade Glioma,G3,64,LGm5
+TCGA-HW-A5KL,Brain Lower Grade Glioma,G2,42,LGm2
+TCGA-HW-A5KM,Brain Lower Grade Glioma,G2,35,LGm2
+TCGA-IK-7675,Brain Lower Grade Glioma,G2,43,LGm1
+TCGA-IK-8125,Brain Lower Grade Glioma,G3,62,LGm3
+TCGA-KT-A74X,Brain Lower Grade Glioma,G3,26,LGm2
+TCGA-KT-A7W1,Brain Lower Grade Glioma,G3,45,LGm4
+TCGA-P5-A5ET,Brain Lower Grade Glioma,G2,27,LGm2
+TCGA-P5-A5EU,Brain Lower Grade Glioma,G3,35,LGm1
+TCGA-P5-A5EV,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-P5-A5EW,Brain Lower Grade Glioma,G2,20,LGm2
+TCGA-P5-A5EX,Brain Lower Grade Glioma,G3,41,LGm2
+TCGA-P5-A5EY,Brain Lower Grade Glioma,G2,21,LGm6
+TCGA-P5-A5EZ,Brain Lower Grade Glioma,G3,39,LGm2
+TCGA-P5-A5F0,Brain Lower Grade Glioma,G2,33,LGm3
+TCGA-P5-A5F1,Brain Lower Grade Glioma,G2,30,LGm2
+TCGA-P5-A5F2,Brain Lower Grade Glioma,G2,36,LGm2
+TCGA-P5-A5F4,Brain Lower Grade Glioma,G3,35,LGm2
+TCGA-P5-A5F6,Brain Lower Grade Glioma,G2,26,LGm6
+TCGA-P5-A72U,Brain Lower Grade Glioma,G3,71,LGm4
+TCGA-P5-A72W,Brain Lower Grade Glioma,G3,35,LGm2
+TCGA-P5-A72X,Brain Lower Grade Glioma,G3,21,LGm2
+TCGA-P5-A72Z,Brain Lower Grade Glioma,G3,64,LGm3
+TCGA-P5-A730,Brain Lower Grade Glioma,G3,22,LGm3
+TCGA-P5-A731,Brain Lower Grade Glioma,G2,59,LGm2
+TCGA-P5-A733,Brain Lower Grade Glioma,G2,52,LGm2
+TCGA-P5-A735,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-P5-A736,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-P5-A737,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-P5-A77W,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-P5-A77X,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-P5-A780,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-P5-A781,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-QH-A65R,Brain Lower Grade Glioma,G3,38,LGm3
+TCGA-QH-A65S,Brain Lower Grade Glioma,G2,32,LGm1
+TCGA-QH-A65V,Brain Lower Grade Glioma,G2,43,LGm2
+TCGA-QH-A65X,Brain Lower Grade Glioma,G3,28,LGm3
+TCGA-QH-A65Z,Brain Lower Grade Glioma,G2,54,LGm3
+TCGA-QH-A6CS,Brain Lower Grade Glioma,G3,41,LGm6
+TCGA-QH-A6CU,Brain Lower Grade Glioma,G3,52,LGm2
+TCGA-QH-A6CV,Brain Lower Grade Glioma,G3,51,LGm4
+TCGA-QH-A6CW,Brain Lower Grade Glioma,G3,43,LGm2
+TCGA-QH-A6CX,Brain Lower Grade Glioma,G2,66,LGm5
+TCGA-QH-A6CY,Brain Lower Grade Glioma,G3,38,LGm3
+TCGA-QH-A6CZ,Brain Lower Grade Glioma,G2,38,LGm3
+TCGA-QH-A6X3,Brain Lower Grade Glioma,G2,27,LGm2
+TCGA-QH-A6X4,Brain Lower Grade Glioma,G3,47,LGm3
+TCGA-QH-A6X5,Brain Lower Grade Glioma,G2,58,LGm3
+TCGA-QH-A6X8,Brain Lower Grade Glioma,G3,56,LGm3
+TCGA-QH-A6X9,Brain Lower Grade Glioma,G2,73,LGm2
+TCGA-QH-A6XA,Brain Lower Grade Glioma,G2,23,LGm2
+TCGA-QH-A6XC,Brain Lower Grade Glioma,G3,48,LGm4
+TCGA-QH-A86X,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-QH-A870,Brain Lower Grade Glioma,G3,38,LGm2
+TCGA-R8-A6MK,Brain Lower Grade Glioma,G2,40,LGm2
+TCGA-R8-A6ML,Brain Lower Grade Glioma,G3,52,LGm3
+TCGA-R8-A6MO,Brain Lower Grade Glioma,G2,53,LGm3
+TCGA-R8-A6YH,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-R8-A73M,Brain Lower Grade Glioma,G2,48,LGm3
+TCGA-RY-A83X,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-RY-A83Y,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-RY-A83Z,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-RY-A840,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-RY-A843,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-RY-A845,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-RY-A847,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-S9-A6TS,Brain Lower Grade Glioma,G3,48,LGm2
+TCGA-S9-A6TU,Brain Lower Grade Glioma,G2,38,LGm2
+TCGA-S9-A6TV,Brain Lower Grade Glioma,G3,50,LGm1
+TCGA-S9-A6TW,Brain Lower Grade Glioma,G3,40,LGm3
+TCGA-S9-A6TX,Brain Lower Grade Glioma,G3,46,LGm3
+TCGA-S9-A6TY,Brain Lower Grade Glioma,G2,50,LGm3
+TCGA-S9-A6TZ,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-S9-A6U0,Brain Lower Grade Glioma,G3,46,LGm5
+TCGA-S9-A6U1,Brain Lower Grade Glioma,G3,22,LGm2
+TCGA-S9-A6U2,Brain Lower Grade Glioma,G2,48,LGm3
+TCGA-S9-A6U5,Brain Lower Grade Glioma,G2,33,LGm2
+TCGA-S9-A6U6,Brain Lower Grade Glioma,G3,28,LGm2
+TCGA-S9-A6U8,Brain Lower Grade Glioma,G2,24,LGm2
+TCGA-S9-A6U9,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-S9-A6UA,Brain Lower Grade Glioma,G3,66,LGm6
+TCGA-S9-A6UB,Brain Lower Grade Glioma,G2,52,LGm3
+TCGA-S9-A6WD,Brain Lower Grade Glioma,G3,58,LGm3
+TCGA-S9-A6WE,Brain Lower Grade Glioma,G2,34,LGm2
+TCGA-S9-A6WG,Brain Lower Grade Glioma,G3,31,LGm2
+TCGA-S9-A6WH,Brain Lower Grade Glioma,G2,73,LGm3
+TCGA-S9-A6WI,Brain Lower Grade Glioma,G2,56,LGm1
+TCGA-S9-A6WL,Brain Lower Grade Glioma,G3,52,LGm3
+TCGA-S9-A6WM,Brain Lower Grade Glioma,G3,59,LGm5
+TCGA-S9-A6WN,Brain Lower Grade Glioma,G3,38,LGm3
+TCGA-S9-A6WO,Brain Lower Grade Glioma,G2,29,LGm2
+TCGA-S9-A6WP,Brain Lower Grade Glioma,G3,42,LGm3
+TCGA-S9-A6WQ,Brain Lower Grade Glioma,G2,57,LGm2
+TCGA-S9-A7IQ,Brain Lower Grade Glioma,G2,45,LGm2
+TCGA-S9-A7IS,Brain Lower Grade Glioma,G3,33,LGm1
+TCGA-S9-A7IX,Brain Lower Grade Glioma,G3,57,LGm5
+TCGA-S9-A7IY,Brain Lower Grade Glioma,G3,39,LGm2
+TCGA-S9-A7IZ,Brain Lower Grade Glioma,G3,48,LGm2
+TCGA-S9-A7J0,Brain Lower Grade Glioma,G3,30,LGm2
+TCGA-S9-A7J1,Brain Lower Grade Glioma,G2,43,LGm3
+TCGA-S9-A7J2,Brain Lower Grade Glioma,G3,25,LGm2
+TCGA-S9-A7J3,Brain Lower Grade Glioma,G3,52,LGm3
+TCGA-S9-A7QW,Brain Lower Grade Glioma,G3,54,LGm2
+TCGA-S9-A7QX,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-S9-A7QY,Brain Lower Grade Glioma,G2,35,LGm3
+TCGA-S9-A7QZ,Brain Lower Grade Glioma,G2,41,LGm3
+TCGA-S9-A7R1,Brain Lower Grade Glioma,G2,35,LGm3
+TCGA-S9-A7R2,Brain Lower Grade Glioma,G3,69,LGm5
+TCGA-S9-A7R3,Brain Lower Grade Glioma,G2,28,LGm2
+TCGA-S9-A7R4,Brain Lower Grade Glioma,G3,46,LGm2
+TCGA-S9-A7R7,Brain Lower Grade Glioma,G2,27,LGm1
+TCGA-S9-A7R8,Brain Lower Grade Glioma,G3,44,LGm2
+TCGA-S9-A89V,Brain Lower Grade Glioma,G3,70,LGm6
+TCGA-S9-A89Z,Brain Lower Grade Glioma,G3,40,LGm2
+TCGA-TM-A7C3,Brain Lower Grade Glioma,G3,43,LGm4
+TCGA-TM-A7C4,Brain Lower Grade Glioma,G2,39,LGm2
+TCGA-TM-A7C5,Brain Lower Grade Glioma,G2,30,LGm3
+TCGA-TM-A7CA,Brain Lower Grade Glioma,G2,44,LGm2
+TCGA-TM-A7CF,Brain Lower Grade Glioma,G2,41,LGm2
+TCGA-TM-A84B,Brain Lower Grade Glioma,G3,40,LGm5
+TCGA-TM-A84C,Brain Lower Grade Glioma,G2,32,LGm6
+TCGA-TM-A84F,Brain Lower Grade Glioma,G3,48,LGm1
+TCGA-TM-A84G,Brain Lower Grade Glioma,G3,54,LGm3
+TCGA-TM-A84H,Brain Lower Grade Glioma,G3,44,LGm2
+TCGA-TM-A84I,Brain Lower Grade Glioma,G3,30,LGm1
+TCGA-TM-A84J,Brain Lower Grade Glioma,G3,63,LGm6
+TCGA-TM-A84L,Brain Lower Grade Glioma,G2,31,LGm2
+TCGA-TM-A84M,Brain Lower Grade Glioma,G3,40,LGm3
+TCGA-TM-A84O,Brain Lower Grade Glioma,G3,61,LGm3
+TCGA-TM-A84Q,Brain Lower Grade Glioma,G2,31,LGm2
+TCGA-TM-A84R,Brain Lower Grade Glioma,G2,46,LGm2
+TCGA-TM-A84S,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-TM-A84T,Brain Lower Grade Glioma,G2,19,LGm2
+TCGA-TQ-A7RF,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RG,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RH,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RI,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RJ,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RK,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RM,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-TQ-A7RN,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RO,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-TQ-A7RP,Brain Lower Grade Glioma,NA,NA,LGm5
+TCGA-TQ-A7RQ,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-TQ-A7RR,Brain Lower Grade Glioma,NA,NA,LGm1
+TCGA-TQ-A7RS,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RU,Brain Lower Grade Glioma,NA,NA,LGm3
+TCGA-TQ-A7RV,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A7RW,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-TQ-A8XE,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-VM-A8C8,Brain Lower Grade Glioma,G2,50,LGm2
+TCGA-VM-A8C9,Brain Lower Grade Glioma,G2,37,LGm6
+TCGA-VM-A8CA,Brain Lower Grade Glioma,G2,54,LGm2
+TCGA-VM-A8CB,Brain Lower Grade Glioma,G3,33,LGm2
+TCGA-VM-A8CD,Brain Lower Grade Glioma,G3,58,LGm5
+TCGA-VM-A8CE,Brain Lower Grade Glioma,G2,25,LGm2
+TCGA-VM-A8CF,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-VM-A8CH,Brain Lower Grade Glioma,G2,24,LGm2
+TCGA-VV-A829,Brain Lower Grade Glioma,G3,44,LGm3
+TCGA-VV-A86M,Brain Lower Grade Glioma,G3,36,LGm2
+TCGA-VW-A7QS,Brain Lower Grade Glioma,G3,35,LGm3
+TCGA-VW-A8FI,Brain Lower Grade Glioma,G3,66,LGm4
+TCGA-W9-A837,Brain Lower Grade Glioma,G2,47,LGm3
+TCGA-WH-A86K,Brain Lower Grade Glioma,G2,65,LGm2
+TCGA-WY-A858,Brain Lower Grade Glioma,G3,32,LGm2
+TCGA-WY-A859,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-WY-A85A,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-WY-A85B,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-WY-A85C,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-WY-A85D,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-WY-A85E,Brain Lower Grade Glioma,NA,NA,LGm2
+TCGA-02-0001,Glioblastoma multiforme,G4,44,LGm5
+TCGA-02-0003,Glioblastoma multiforme,G4,50,LGm5
+TCGA-02-0004,Glioblastoma multiforme,G4,59,NA
+TCGA-02-0006,Glioblastoma multiforme,G4,56,LGm5
+TCGA-02-0007,Glioblastoma multiforme,G4,40,LGm4
+TCGA-02-0009,Glioblastoma multiforme,G4,61,LGm4
+TCGA-02-0010,Glioblastoma multiforme,G4,20,LGm1
+TCGA-02-0011,Glioblastoma multiforme,G4,18,LGm6
+TCGA-02-0014,Glioblastoma multiforme,G4,25,LGm1
+TCGA-02-0015,Glioblastoma multiforme,G4,50,NA
+TCGA-02-0016,Glioblastoma multiforme,G4,50,NA
+TCGA-02-0021,Glioblastoma multiforme,G4,43,LGm5
+TCGA-02-0023,Glioblastoma multiforme,G4,38,NA
+TCGA-02-0024,Glioblastoma multiforme,G4,35,LGm6
+TCGA-02-0025,Glioblastoma multiforme,G4,47,NA
+TCGA-02-0026,Glioblastoma multiforme,G4,27,NA
+TCGA-02-0027,Glioblastoma multiforme,G4,33,LGm6
+TCGA-02-0028,Glioblastoma multiforme,G4,39,LGm3
+TCGA-02-0033,Glioblastoma multiforme,G4,54,LGm5
+TCGA-02-0034,Glioblastoma multiforme,G4,60,LGm6
+TCGA-02-0037,Glioblastoma multiforme,G4,74,LGm5
+TCGA-02-0038,Glioblastoma multiforme,G4,48,LGm5
+TCGA-02-0039,Glioblastoma multiforme,G4,54,NA
+TCGA-02-0043,Glioblastoma multiforme,G4,54,LGm4
+TCGA-02-0046,Glioblastoma multiforme,G4,61,LGm5
+TCGA-02-0047,Glioblastoma multiforme,G4,78,LGm6
+TCGA-02-0048,Glioblastoma multiforme,G4,80,NA
+TCGA-02-0051,Glioblastoma multiforme,G4,43,NA
+TCGA-02-0052,Glioblastoma multiforme,G4,49,LGm5
+TCGA-02-0054,Glioblastoma multiforme,G4,44,LGm5
+TCGA-02-0055,Glioblastoma multiforme,G4,62,LGm5
+TCGA-02-0057,Glioblastoma multiforme,G4,66,LGm5
+TCGA-02-0058,Glioblastoma multiforme,G4,28,LGm1
+TCGA-02-0059,Glioblastoma multiforme,G4,68,NA
+TCGA-02-0060,Glioblastoma multiforme,G4,66,LGm6
+TCGA-02-0064,Glioblastoma multiforme,G4,50,LGm4
+TCGA-02-0068,Glioblastoma multiforme,G4,57,NA
+TCGA-02-0069,Glioblastoma multiforme,G4,31,LGm6
+TCGA-02-0070,Glioblastoma multiforme,G4,70,NA
+TCGA-02-0071,Glioblastoma multiforme,G4,53,LGm5
+TCGA-02-0074,Glioblastoma multiforme,G4,68,LGm5
+TCGA-02-0075,Glioblastoma multiforme,G4,63,LGm5
+TCGA-02-0079,Glioblastoma multiforme,G4,57,NA
+TCGA-02-0080,Glioblastoma multiforme,G4,28,LGm2
+TCGA-02-0083,Glioblastoma multiforme,G4,59,LGm5
+TCGA-02-0084,Glioblastoma multiforme,G4,36,NA
+TCGA-02-0085,Glioblastoma multiforme,G4,63,LGm5
+TCGA-02-0086,Glioblastoma multiforme,G4,45,LGm5
+TCGA-02-0087,Glioblastoma multiforme,G4,27,NA
+TCGA-02-0089,Glioblastoma multiforme,G4,52,LGm4
+TCGA-02-0099,Glioblastoma multiforme,G4,46,LGm5
+TCGA-02-0102,Glioblastoma multiforme,G4,42,LGm4
+TCGA-02-0104,Glioblastoma multiforme,G4,29,NA
+TCGA-02-0106,Glioblastoma multiforme,G4,54,NA
+TCGA-02-0107,Glioblastoma multiforme,G4,56,LGm6
+TCGA-02-0111,Glioblastoma multiforme,G4,56,NA
+TCGA-02-0113,Glioblastoma multiforme,G4,43,LGm6
+TCGA-02-0114,Glioblastoma multiforme,G4,37,LGm1
+TCGA-02-0115,Glioblastoma multiforme,G4,52,LGm5
+TCGA-02-0116,Glioblastoma multiforme,G4,51,LGm4
+TCGA-02-0250,Glioblastoma multiforme,NA,NA,NA
+TCGA-02-0258,Glioblastoma multiforme,G4,36,NA
+TCGA-02-0260,Glioblastoma multiforme,G4,54,NA
+TCGA-02-0266,Glioblastoma multiforme,G4,14,NA
+TCGA-02-0269,Glioblastoma multiforme,G4,68,NA
+TCGA-02-0271,Glioblastoma multiforme,G4,26,NA
+TCGA-02-0281,Glioblastoma multiforme,G4,78,NA
+TCGA-02-0285,Glioblastoma multiforme,G4,50,NA
+TCGA-02-0289,Glioblastoma multiforme,G4,57,NA
+TCGA-02-0290,Glioblastoma multiforme,G4,49,NA
+TCGA-02-0317,Glioblastoma multiforme,G4,40,NA
+TCGA-02-0321,Glioblastoma multiforme,G4,74,NA
+TCGA-02-0324,Glioblastoma multiforme,G4,69,NA
+TCGA-02-0325,Glioblastoma multiforme,G4,61,NA
+TCGA-02-0326,Glioblastoma multiforme,G4,82,NA
+TCGA-02-0329,Glioblastoma multiforme,NA,NA,NA
+TCGA-02-0330,Glioblastoma multiforme,G4,51,NA
+TCGA-02-0332,Glioblastoma multiforme,G4,46,NA
+TCGA-02-0333,Glioblastoma multiforme,G4,77,NA
+TCGA-02-0336,Glioblastoma multiforme,NA,NA,NA
+TCGA-02-0337,Glioblastoma multiforme,G4,48,NA
+TCGA-02-0338,Glioblastoma multiforme,G4,41,NA
+TCGA-02-0339,Glioblastoma multiforme,G4,67,NA
+TCGA-02-0422,Glioblastoma multiforme,G4,50,NA
+TCGA-02-0430,Glioblastoma multiforme,G4,67,NA
+TCGA-02-0432,Glioblastoma multiforme,G4,36,NA
+TCGA-02-0439,Glioblastoma multiforme,G4,70,NA
+TCGA-02-0440,Glioblastoma multiforme,G4,62,NA
+TCGA-02-0446,Glioblastoma multiforme,G4,61,NA
+TCGA-02-0451,Glioblastoma multiforme,G4,62,NA
+TCGA-02-0456,Glioblastoma multiforme,G4,67,NA
+TCGA-02-2466,Glioblastoma multiforme,G4,61,LGm5
+TCGA-02-2470,Glioblastoma multiforme,G4,57,LGm5
+TCGA-02-2483,Glioblastoma multiforme,G4,43,LGm1
+TCGA-02-2485,Glioblastoma multiforme,G4,53,LGm4
+TCGA-02-2486,Glioblastoma multiforme,G4,64,LGm4
+TCGA-06-0119,Glioblastoma multiforme,G4,81,LGm5
+TCGA-06-0121,Glioblastoma multiforme,NA,NA,LGm6
+TCGA-06-0122,Glioblastoma multiforme,G4,84,LGm4
+TCGA-06-0124,Glioblastoma multiforme,G4,67,LGm5
+TCGA-06-0125,Glioblastoma multiforme,G4,63,LGm4
+TCGA-06-0126,Glioblastoma multiforme,G4,86,LGm4
+TCGA-06-0127,Glioblastoma multiforme,G4,67,NA
+TCGA-06-0128,Glioblastoma multiforme,G4,66,LGm1
+TCGA-06-0129,Glioblastoma multiforme,G4,30,LGm1
+TCGA-06-0130,Glioblastoma multiforme,G4,54,LGm5
+TCGA-06-0131,Glioblastoma multiforme,NA,NA,NA
+TCGA-06-0132,Glioblastoma multiforme,G4,49,NA
+TCGA-06-0133,Glioblastoma multiforme,G4,64,LGm5
+TCGA-06-0137,Glioblastoma multiforme,G4,63,LGm4
+TCGA-06-0138,Glioblastoma multiforme,G4,43,NA
+TCGA-06-0139,Glioblastoma multiforme,G4,40,LGm6
+TCGA-06-0140,Glioblastoma multiforme,G4,86,LGm4
+TCGA-06-0141,Glioblastoma multiforme,G4,62,LGm6
+TCGA-06-0142,Glioblastoma multiforme,G4,81,LGm6
+TCGA-06-0143,Glioblastoma multiforme,G4,58,LGm5
+TCGA-06-0145,Glioblastoma multiforme,G4,53,LGm4
+TCGA-06-0146,Glioblastoma multiforme,G4,33,NA
+TCGA-06-0147,Glioblastoma multiforme,G4,51,LGm5
+TCGA-06-0148,Glioblastoma multiforme,G4,76,LGm5
+TCGA-06-0149,Glioblastoma multiforme,G4,74,NA
+TCGA-06-0150,Glioblastoma multiforme,G4,45,NA
+TCGA-06-0151,Glioblastoma multiforme,G4,32,NA
+TCGA-06-0152,Glioblastoma multiforme,G4,68,NA
+TCGA-06-0154,Glioblastoma multiforme,G4,54,NA
+TCGA-06-0155,Glioblastoma multiforme,G4,61,LGm4
+TCGA-06-0156,Glioblastoma multiforme,G4,57,NA
+TCGA-06-0157,Glioblastoma multiforme,G4,63,NA
+TCGA-06-0158,Glioblastoma multiforme,G4,73,NA
+TCGA-06-0159,Glioblastoma multiforme,G4,74,NA
+TCGA-06-0160,Glioblastoma multiforme,G4,56,NA
+TCGA-06-0162,Glioblastoma multiforme,G4,47,NA
+TCGA-06-0164,Glioblastoma multiforme,G4,47,NA
+TCGA-06-0165,Glioblastoma multiforme,G4,52,NA
+TCGA-06-0166,Glioblastoma multiforme,G4,51,NA
+TCGA-06-0167,Glioblastoma multiforme,G4,44,NA
+TCGA-06-0168,Glioblastoma multiforme,G4,59,NA
+TCGA-06-0169,Glioblastoma multiforme,G4,68,LGm5
+TCGA-06-0171,Glioblastoma multiforme,G4,65,NA
+TCGA-06-0173,Glioblastoma multiforme,G4,72,NA
+TCGA-06-0174,Glioblastoma multiforme,G4,54,NA
+TCGA-06-0175,Glioblastoma multiforme,G4,69,NA
+TCGA-06-0176,Glioblastoma multiforme,G4,34,NA
+TCGA-06-0177,Glioblastoma multiforme,G4,64,NA
+TCGA-06-0178,Glioblastoma multiforme,G4,38,NA
+TCGA-06-0179,Glioblastoma multiforme,G4,64,NA
+TCGA-06-0182,Glioblastoma multiforme,G4,76,NA
+TCGA-06-0184,Glioblastoma multiforme,G4,63,NA
+TCGA-06-0185,Glioblastoma multiforme,G4,54,NA
+TCGA-06-0187,Glioblastoma multiforme,G4,69,NA
+TCGA-06-0188,Glioblastoma multiforme,G4,71,NA
+TCGA-06-0189,Glioblastoma multiforme,G4,55,NA
+TCGA-06-0190,Glioblastoma multiforme,G4,62,NA
+TCGA-06-0192,Glioblastoma multiforme,G4,58,NA
+TCGA-06-0194,Glioblastoma multiforme,G4,37,NA
+TCGA-06-0195,Glioblastoma multiforme,G4,63,NA
+TCGA-06-0197,Glioblastoma multiforme,G4,65,NA
+TCGA-06-0201,Glioblastoma multiforme,G4,51,NA
+TCGA-06-0206,Glioblastoma multiforme,G4,40,NA
+TCGA-06-0208,Glioblastoma multiforme,G4,52,NA
+TCGA-06-0209,Glioblastoma multiforme,G4,76,NA
+TCGA-06-0210,Glioblastoma multiforme,G4,72,NA
+TCGA-06-0211,Glioblastoma multiforme,G4,47,NA
+TCGA-06-0213,Glioblastoma multiforme,G4,55,NA
+TCGA-06-0214,Glioblastoma multiforme,G4,66,NA
+TCGA-06-0216,Glioblastoma multiforme,G4,61,NA
+TCGA-06-0219,Glioblastoma multiforme,G4,67,NA
+TCGA-06-0221,Glioblastoma multiforme,G4,31,NA
+TCGA-06-0237,Glioblastoma multiforme,G4,75,NA
+TCGA-06-0238,Glioblastoma multiforme,G4,46,NA
+TCGA-06-0240,Glioblastoma multiforme,G4,57,NA
+TCGA-06-0241,Glioblastoma multiforme,G4,65,NA
+TCGA-06-0394,Glioblastoma multiforme,G4,51,NA
+TCGA-06-0397,Glioblastoma multiforme,G4,57,NA
+TCGA-06-0402,Glioblastoma multiforme,G4,71,NA
+TCGA-06-0409,Glioblastoma multiforme,G4,43,NA
+TCGA-06-0410,Glioblastoma multiforme,G4,76,NA
+TCGA-06-0412,Glioblastoma multiforme,G4,56,NA
+TCGA-06-0413,Glioblastoma multiforme,G4,77,NA
+TCGA-06-0414,Glioblastoma multiforme,G4,63,NA
+TCGA-06-0644,Glioblastoma multiforme,G4,71,NA
+TCGA-06-0645,Glioblastoma multiforme,G4,55,NA
+TCGA-06-0646,Glioblastoma multiforme,G4,60,NA
+TCGA-06-0648,Glioblastoma multiforme,G4,77,NA
+TCGA-06-0649,Glioblastoma multiforme,G4,73,NA
+TCGA-06-0650,Glioblastoma multiforme,G4,39,LGm6
+TCGA-06-0686,Glioblastoma multiforme,G4,53,NA
+TCGA-06-0743,Glioblastoma multiforme,G4,69,NA
+TCGA-06-0744,Glioblastoma multiforme,G4,66,NA
+TCGA-06-0745,Glioblastoma multiforme,G4,59,NA
+TCGA-06-0747,Glioblastoma multiforme,G4,53,NA
+TCGA-06-0749,Glioblastoma multiforme,G4,50,NA
+TCGA-06-0750,Glioblastoma multiforme,G4,43,NA
+TCGA-06-0875,Glioblastoma multiforme,G4,61,LGm6
+TCGA-06-0876,Glioblastoma multiforme,G4,72,LGm5
+TCGA-06-0877,Glioblastoma multiforme,G4,78,LGm4
+TCGA-06-0878,Glioblastoma multiforme,G4,74,LGm5
+TCGA-06-0879,Glioblastoma multiforme,G4,52,LGm5
+TCGA-06-0881,Glioblastoma multiforme,G4,50,LGm6
+TCGA-06-0882,Glioblastoma multiforme,G4,30,LGm6
+TCGA-06-0939,Glioblastoma multiforme,G4,79,LGm4
+TCGA-06-1084,Glioblastoma multiforme,G4,54,LGm5
+TCGA-06-1086,Glioblastoma multiforme,G4,42,LGm6
+TCGA-06-1087,Glioblastoma multiforme,G4,75,LGm5
+TCGA-06-1800,Glioblastoma multiforme,G4,61,LGm5
+TCGA-06-1801,Glioblastoma multiforme,G4,56,LGm6
+TCGA-06-1802,Glioblastoma multiforme,G4,61,LGm4
+TCGA-06-1804,Glioblastoma multiforme,G4,81,LGm4
+TCGA-06-1805,Glioblastoma multiforme,G4,28,LGm1
+TCGA-06-1806,Glioblastoma multiforme,G4,47,LGm6
+TCGA-06-2557,Glioblastoma multiforme,G4,76,LGm4
+TCGA-06-2558,Glioblastoma multiforme,G4,75,LGm5
+TCGA-06-2559,Glioblastoma multiforme,G4,83,LGm5
+TCGA-06-2561,Glioblastoma multiforme,G4,53,LGm5
+TCGA-06-2562,Glioblastoma multiforme,G4,81,LGm4
+TCGA-06-2563,Glioblastoma multiforme,G4,72,LGm4
+TCGA-06-2564,Glioblastoma multiforme,G4,50,LGm5
+TCGA-06-2565,Glioblastoma multiforme,G4,59,LGm4
+TCGA-06-2566,Glioblastoma multiforme,G4,23,LGm6
+TCGA-06-2567,Glioblastoma multiforme,G4,65,LGm5
+TCGA-06-2569,Glioblastoma multiforme,G4,24,LGm6
+TCGA-06-2570,Glioblastoma multiforme,G4,21,LGm1
+TCGA-06-5408,Glioblastoma multiforme,G4,54,LGm5
+TCGA-06-5410,Glioblastoma multiforme,G4,72,LGm6
+TCGA-06-5411,Glioblastoma multiforme,G4,51,LGm5
+TCGA-06-5412,Glioblastoma multiforme,G4,78,LGm5
+TCGA-06-5413,Glioblastoma multiforme,G4,67,LGm5
+TCGA-06-5414,Glioblastoma multiforme,G4,61,LGm4
+TCGA-06-5415,Glioblastoma multiforme,G4,60,LGm4
+TCGA-06-5416,Glioblastoma multiforme,G4,23,LGm6
+TCGA-06-5417,Glioblastoma multiforme,G4,45,LGm1
+TCGA-06-5418,Glioblastoma multiforme,G4,75,LGm5
+TCGA-06-5856,Glioblastoma multiforme,G4,58,LGm4
+TCGA-06-5858,Glioblastoma multiforme,G4,45,LGm6
+TCGA-06-5859,Glioblastoma multiforme,G4,63,LGm4
+TCGA-06-6388,Glioblastoma multiforme,G4,64,LGm5
+TCGA-06-6389,Glioblastoma multiforme,G4,49,LGm1
+TCGA-06-6390,Glioblastoma multiforme,G4,58,LGm5
+TCGA-06-6391,Glioblastoma multiforme,G4,44,LGm6
+TCGA-06-6693,Glioblastoma multiforme,G4,64,LGm4
+TCGA-06-6694,Glioblastoma multiforme,G4,76,LGm5
+TCGA-06-6695,Glioblastoma multiforme,G4,64,LGm4
+TCGA-06-6697,Glioblastoma multiforme,G4,65,LGm5
+TCGA-06-6698,Glioblastoma multiforme,G4,53,LGm6
+TCGA-06-6699,Glioblastoma multiforme,G4,58,LGm4
+TCGA-06-6700,Glioblastoma multiforme,G4,76,LGm5
+TCGA-06-6701,Glioblastoma multiforme,G4,60,LGm2
+TCGA-06-A5U0,Glioblastoma multiforme,G4,21,LGm6
+TCGA-06-A5U1,Glioblastoma multiforme,G4,78,LGm5
+TCGA-06-A6S0,Glioblastoma multiforme,G4,79,LGm4
+TCGA-06-A6S1,Glioblastoma multiforme,G4,53,LGm5
+TCGA-06-A7TK,Glioblastoma multiforme,G4,64,LGm4
+TCGA-06-A7TL,Glioblastoma multiforme,NA,NA,LGm1
+TCGA-08-0244,Glioblastoma multiforme,G4,62,NA
+TCGA-08-0245,Glioblastoma multiforme,G4,31,NA
+TCGA-08-0246,Glioblastoma multiforme,G4,57,NA
+TCGA-08-0344,Glioblastoma multiforme,G4,66,NA
+TCGA-08-0345,Glioblastoma multiforme,G4,71,NA
+TCGA-08-0346,Glioblastoma multiforme,G4,69,NA
+TCGA-08-0347,Glioblastoma multiforme,G4,50,NA
+TCGA-08-0348,Glioblastoma multiforme,G4,63,NA
+TCGA-08-0349,Glioblastoma multiforme,G4,46,NA
+TCGA-08-0350,Glioblastoma multiforme,G4,32,NA
+TCGA-08-0351,Glioblastoma multiforme,G4,40,NA
+TCGA-08-0352,Glioblastoma multiforme,G4,79,NA
+TCGA-08-0353,Glioblastoma multiforme,G4,58,NA
+TCGA-08-0354,Glioblastoma multiforme,G4,52,NA
+TCGA-08-0355,Glioblastoma multiforme,G4,30,NA
+TCGA-08-0356,Glioblastoma multiforme,G4,59,NA
+TCGA-08-0357,Glioblastoma multiforme,G4,49,NA
+TCGA-08-0358,Glioblastoma multiforme,G4,50,NA
+TCGA-08-0359,Glioblastoma multiforme,G4,59,NA
+TCGA-08-0360,Glioblastoma multiforme,G4,76,NA
+TCGA-08-0373,Glioblastoma multiforme,G4,69,NA
+TCGA-08-0375,Glioblastoma multiforme,G4,51,NA
+TCGA-08-0380,Glioblastoma multiforme,G4,74,NA
+TCGA-08-0385,Glioblastoma multiforme,G4,71,NA
+TCGA-08-0386,Glioblastoma multiforme,G4,74,NA
+TCGA-08-0389,Glioblastoma multiforme,G4,59,NA
+TCGA-08-0390,Glioblastoma multiforme,G4,69,NA
+TCGA-08-0392,Glioblastoma multiforme,G4,60,NA
+TCGA-08-0509,Glioblastoma multiforme,G4,63,NA
+TCGA-08-0510,Glioblastoma multiforme,G4,75,NA
+TCGA-08-0511,Glioblastoma multiforme,G4,69,NA
+TCGA-08-0512,Glioblastoma multiforme,G4,48,NA
+TCGA-08-0514,Glioblastoma multiforme,G4,69,NA
+TCGA-08-0516,Glioblastoma multiforme,G4,14,NA
+TCGA-08-0517,Glioblastoma multiforme,G4,34,NA
+TCGA-08-0518,Glioblastoma multiforme,G4,60,NA
+TCGA-08-0520,Glioblastoma multiforme,G4,70,NA
+TCGA-08-0521,Glioblastoma multiforme,G4,17,NA
+TCGA-08-0522,Glioblastoma multiforme,G4,61,NA
+TCGA-08-0524,Glioblastoma multiforme,G4,17,NA
+TCGA-08-0525,Glioblastoma multiforme,G4,52,NA
+TCGA-08-0529,Glioblastoma multiforme,G4,56,NA
+TCGA-08-0531,Glioblastoma multiforme,G4,64,NA
+TCGA-12-0615,Glioblastoma multiforme,G4,78,NA
+TCGA-12-0616,Glioblastoma multiforme,G4,36,NA
+TCGA-12-0618,Glioblastoma multiforme,G4,49,NA
+TCGA-12-0619,Glioblastoma multiforme,G4,60,NA
+TCGA-12-0620,Glioblastoma multiforme,G4,57,NA
+TCGA-12-0653,Glioblastoma multiforme,NA,NA,NA
+TCGA-12-0654,Glioblastoma multiforme,G4,48,NA
+TCGA-12-0656,Glioblastoma multiforme,G4,48,NA
+TCGA-12-0657,Glioblastoma multiforme,G4,69,NA
+TCGA-12-0662,Glioblastoma multiforme,G4,51,NA
+TCGA-12-0670,Glioblastoma multiforme,G4,60,LGm4
+TCGA-12-0688,Glioblastoma multiforme,G4,74,NA
+TCGA-12-0691,Glioblastoma multiforme,G4,63,NA
+TCGA-12-0692,Glioblastoma multiforme,G4,75,NA
+TCGA-12-0703,Glioblastoma multiforme,G4,46,NA
+TCGA-12-0707,Glioblastoma multiforme,G4,55,NA
+TCGA-12-0769,Glioblastoma multiforme,G4,52,NA
+TCGA-12-0772,Glioblastoma multiforme,G4,46,NA
+TCGA-12-0773,Glioblastoma multiforme,G4,24,NA
+TCGA-12-0775,Glioblastoma multiforme,G4,75,NA
+TCGA-12-0776,Glioblastoma multiforme,G4,52,NA
+TCGA-12-0778,Glioblastoma multiforme,G4,53,NA
+TCGA-12-0780,Glioblastoma multiforme,G4,51,NA
+TCGA-12-0818,Glioblastoma multiforme,G4,45,LGm2
+TCGA-12-0819,Glioblastoma multiforme,G4,49,LGm5
+TCGA-12-0820,Glioblastoma multiforme,G4,40,LGm5
+TCGA-12-0821,Glioblastoma multiforme,G4,62,LGm6
+TCGA-12-0822,Glioblastoma multiforme,G4,46,LGm6
+TCGA-12-0826,Glioblastoma multiforme,G4,38,LGm6
+TCGA-12-0827,Glioblastoma multiforme,G4,38,LGm1
+TCGA-12-0828,Glioblastoma multiforme,G4,57,LGm5
+TCGA-12-0829,Glioblastoma multiforme,G4,75,LGm5
+TCGA-12-1088,Glioblastoma multiforme,G4,53,LGm6
+TCGA-12-1089,Glioblastoma multiforme,G4,64,LGm5
+TCGA-12-1090,Glioblastoma multiforme,G4,58,LGm5
+TCGA-12-1091,Glioblastoma multiforme,G4,10,LGm5
+TCGA-12-1092,Glioblastoma multiforme,G4,58,LGm5
+TCGA-12-1093,Glioblastoma multiforme,G4,66,LGm5
+TCGA-12-1094,Glioblastoma multiforme,G4,56,LGm5
+TCGA-12-1095,Glioblastoma multiforme,G4,65,LGm5
+TCGA-12-1096,Glioblastoma multiforme,G4,55,LGm5
+TCGA-12-1097,Glioblastoma multiforme,G4,61,LGm5
+TCGA-12-1098,Glioblastoma multiforme,G4,75,LGm4
+TCGA-12-1099,Glioblastoma multiforme,G4,68,LGm5
+TCGA-12-1597,Glioblastoma multiforme,G4,62,LGm4
+TCGA-12-1598,Glioblastoma multiforme,G4,75,LGm4
+TCGA-12-1599,Glioblastoma multiforme,G4,47,LGm5
+TCGA-12-1600,Glioblastoma multiforme,G4,86,LGm4
+TCGA-12-1601,Glioblastoma multiforme,NA,NA,LGm5
+TCGA-12-1602,Glioblastoma multiforme,G4,58,LGm5
+TCGA-12-3644,Glioblastoma multiforme,G4,47,LGm5
+TCGA-12-3646,Glioblastoma multiforme,G4,59,LGm4
+TCGA-12-3648,Glioblastoma multiforme,G4,61,LGm4
+TCGA-12-3649,Glioblastoma multiforme,G4,76,LGm4
+TCGA-12-3650,Glioblastoma multiforme,G4,46,LGm4
+TCGA-12-3651,Glioblastoma multiforme,G4,77,LGm5
+TCGA-12-3652,Glioblastoma multiforme,G4,60,LGm5
+TCGA-12-3653,Glioblastoma multiforme,G4,34,LGm5
+TCGA-12-5295,Glioblastoma multiforme,G4,60,LGm4
+TCGA-12-5299,Glioblastoma multiforme,G4,56,LGm5
+TCGA-12-5301,Glioblastoma multiforme,G4,59,LGm5
+TCGA-14-0736,Glioblastoma multiforme,G4,49,LGm6
+TCGA-14-0740,Glioblastoma multiforme,G4,70,LGm6
+TCGA-14-0781,Glioblastoma multiforme,G4,49,LGm5
+TCGA-14-0783,Glioblastoma multiforme,G4,36,LGm4
+TCGA-14-0786,Glioblastoma multiforme,G4,50,LGm4
+TCGA-14-0787,Glioblastoma multiforme,G4,69,LGm4
+TCGA-14-0789,Glioblastoma multiforme,G4,54,LGm5
+TCGA-14-0790,Glioblastoma multiforme,G4,64,LGm4
+TCGA-14-0812,Glioblastoma multiforme,G4,65,LGm4
+TCGA-14-0813,Glioblastoma multiforme,G4,78,LGm5
+TCGA-14-0817,Glioblastoma multiforme,G4,69,LGm4
+TCGA-14-0862,Glioblastoma multiforme,G4,60,LGm4
+TCGA-14-0865,Glioblastoma multiforme,G4,67,LGm5
+TCGA-14-0866,Glioblastoma multiforme,G4,55,LGm4
+TCGA-14-0867,Glioblastoma multiforme,G4,67,LGm5
+TCGA-14-0871,Glioblastoma multiforme,G4,74,LGm6
+TCGA-14-1034,Glioblastoma multiforme,G4,60,LGm4
+TCGA-14-1037,Glioblastoma multiforme,G4,66,LGm5
+TCGA-14-1043,Glioblastoma multiforme,G4,61,LGm5
+TCGA-14-1395,Glioblastoma multiforme,G4,52,LGm5
+TCGA-14-1396,Glioblastoma multiforme,G4,78,LGm4
+TCGA-14-1401,Glioblastoma multiforme,G4,54,LGm5
+TCGA-14-1402,Glioblastoma multiforme,G4,58,LGm4
+TCGA-14-1450,Glioblastoma multiforme,G4,57,LGm4
+TCGA-14-1451,Glioblastoma multiforme,G4,39,LGm5
+TCGA-14-1452,Glioblastoma multiforme,G4,60,LGm4
+TCGA-14-1453,Glioblastoma multiforme,G4,69,LGm4
+TCGA-14-1454,Glioblastoma multiforme,G4,54,LGm5
+TCGA-14-1455,Glioblastoma multiforme,G4,61,LGm6
+TCGA-14-1456,Glioblastoma multiforme,G4,23,LGm2
+TCGA-14-1458,Glioblastoma multiforme,G4,54,LGm2
+TCGA-14-1459,Glioblastoma multiforme,G4,63,LGm5
+TCGA-14-1794,Glioblastoma multiforme,G4,59,LGm5
+TCGA-14-1795,Glioblastoma multiforme,G4,66,LGm4
+TCGA-14-1821,Glioblastoma multiforme,G4,31,LGm1
+TCGA-14-1823,Glioblastoma multiforme,G4,58,LGm4
+TCGA-14-1825,Glioblastoma multiforme,G4,70,LGm5
+TCGA-14-1827,Glioblastoma multiforme,G4,51,LGm5
+TCGA-14-1829,Glioblastoma multiforme,G4,57,LGm5
+TCGA-14-2554,Glioblastoma multiforme,G4,52,LGm5
+TCGA-14-2555,Glioblastoma multiforme,G4,44,LGm5
+TCGA-14-3476,Glioblastoma multiforme,G4,74,LGm5
+TCGA-14-3477,Glioblastoma multiforme,G4,38,LGm6
+TCGA-14-4157,Glioblastoma multiforme,G4,40,LGm2
+TCGA-15-0742,Glioblastoma multiforme,G4,65,NA
+TCGA-15-1444,Glioblastoma multiforme,G4,21,LGm2
+TCGA-15-1446,Glioblastoma multiforme,G4,55,LGm4
+TCGA-15-1447,Glioblastoma multiforme,G4,36,LGm6
+TCGA-15-1449,Glioblastoma multiforme,G4,65,LGm5
+TCGA-16-0846,Glioblastoma multiforme,G4,85,LGm5
+TCGA-16-0848,Glioblastoma multiforme,G4,57,LGm5
+TCGA-16-0849,Glioblastoma multiforme,G4,54,LGm2
+TCGA-16-0850,Glioblastoma multiforme,G4,52,LGm1
+TCGA-16-0861,Glioblastoma multiforme,G4,65,LGm5
+TCGA-16-1045,Glioblastoma multiforme,G4,49,LGm5
+TCGA-16-1047,Glioblastoma multiforme,G4,66,LGm5
+TCGA-16-1048,Glioblastoma multiforme,NA,NA,LGm5
+TCGA-16-1055,Glioblastoma multiforme,G4,48,LGm5
+TCGA-16-1056,Glioblastoma multiforme,G4,55,LGm4
+TCGA-16-1060,Glioblastoma multiforme,G4,70,LGm5
+TCGA-16-1062,Glioblastoma multiforme,G4,57,LGm4
+TCGA-16-1063,Glioblastoma multiforme,G4,72,LGm4
+TCGA-16-1460,Glioblastoma multiforme,G4,36,LGm2
+TCGA-19-0955,Glioblastoma multiforme,G4,71,LGm5
+TCGA-19-0957,Glioblastoma multiforme,G4,48,LGm4
+TCGA-19-0960,Glioblastoma multiforme,G4,83,LGm5
+TCGA-19-0962,Glioblastoma multiforme,G4,77,LGm5
+TCGA-19-0963,Glioblastoma multiforme,G4,61,LGm5
+TCGA-19-0964,Glioblastoma multiforme,G4,70,LGm4
+TCGA-19-1385,Glioblastoma multiforme,G4,69,LGm6
+TCGA-19-1386,Glioblastoma multiforme,G4,51,LGm5
+TCGA-19-1387,Glioblastoma multiforme,G4,81,LGm4
+TCGA-19-1388,Glioblastoma multiforme,G4,58,LGm6
+TCGA-19-1389,Glioblastoma multiforme,G4,51,LGm6
+TCGA-19-1390,Glioblastoma multiforme,G4,63,LGm4
+TCGA-19-1392,Glioblastoma multiforme,G4,72,LGm4
+TCGA-19-1786,Glioblastoma multiforme,G4,64,LGm5
+TCGA-19-1787,Glioblastoma multiforme,G4,48,LGm4
+TCGA-19-1788,Glioblastoma multiforme,G4,39,LGm2
+TCGA-19-1789,Glioblastoma multiforme,G4,69,LGm4
+TCGA-19-1790,Glioblastoma multiforme,G4,56,LGm4
+TCGA-19-1791,Glioblastoma multiforme,G4,82,LGm5
+TCGA-19-2619,Glioblastoma multiforme,G4,55,LGm5
+TCGA-19-2620,Glioblastoma multiforme,G4,70,LGm4
+TCGA-19-2621,Glioblastoma multiforme,G4,83,LGm5
+TCGA-19-2623,Glioblastoma multiforme,G4,65,LGm5
+TCGA-19-2624,Glioblastoma multiforme,G4,51,LGm5
+TCGA-19-2625,Glioblastoma multiforme,G4,76,LGm5
+TCGA-19-2629,Glioblastoma multiforme,G4,60,LGm1
+TCGA-19-2631,Glioblastoma multiforme,G4,74,LGm4
+TCGA-19-4065,Glioblastoma multiforme,G4,36,LGm5
+TCGA-19-4068,Glioblastoma multiforme,G4,68,LGm5
+TCGA-19-5947,Glioblastoma multiforme,G4,47,LGm5
+TCGA-19-5950,Glioblastoma multiforme,G4,52,LGm4
+TCGA-19-5951,Glioblastoma multiforme,G4,76,LGm4
+TCGA-19-5952,Glioblastoma multiforme,G4,62,LGm5
+TCGA-19-5953,Glioblastoma multiforme,G4,58,LGm4
+TCGA-19-5954,Glioblastoma multiforme,G4,72,LGm5
+TCGA-19-5955,Glioblastoma multiforme,G4,83,LGm5
+TCGA-19-5956,Glioblastoma multiforme,G4,53,LGm6
+TCGA-19-5958,Glioblastoma multiforme,G4,56,LGm5
+TCGA-19-5959,Glioblastoma multiforme,G4,77,LGm4
+TCGA-19-5960,Glioblastoma multiforme,G4,56,LGm4
+TCGA-19-A60I,Glioblastoma multiforme,G4,39,LGm4
+TCGA-19-A6J4,Glioblastoma multiforme,G4,68,LGm5
+TCGA-19-A6J5,Glioblastoma multiforme,G4,40,LGm3
+TCGA-26-1438,Glioblastoma multiforme,G4,36,LGm5
+TCGA-26-1439,Glioblastoma multiforme,G4,63,LGm5
+TCGA-26-1440,Glioblastoma multiforme,G4,48,LGm6
+TCGA-26-1442,Glioblastoma multiforme,G4,43,LGm2
+TCGA-26-1443,Glioblastoma multiforme,G4,60,LGm4
+TCGA-26-1799,Glioblastoma multiforme,G4,68,LGm5
+TCGA-26-5132,Glioblastoma multiforme,G4,74,LGm4
+TCGA-26-5133,Glioblastoma multiforme,G4,59,LGm1
+TCGA-26-5134,Glioblastoma multiforme,G4,74,LGm5
+TCGA-26-5135,Glioblastoma multiforme,G4,72,LGm5
+TCGA-26-5136,Glioblastoma multiforme,G4,78,LGm5
+TCGA-26-5139,Glioblastoma multiforme,G4,65,LGm5
+TCGA-26-6173,Glioblastoma multiforme,G4,57,LGm5
+TCGA-26-6174,Glioblastoma multiforme,G4,65,LGm5
+TCGA-26-A7UX,Glioblastoma multiforme,G4,47,LGm5
+TCGA-27-1830,Glioblastoma multiforme,G4,57,LGm5
+TCGA-27-1831,Glioblastoma multiforme,G4,66,LGm5
+TCGA-27-1832,Glioblastoma multiforme,G4,59,LGm5
+TCGA-27-1833,Glioblastoma multiforme,G4,67,LGm4
+TCGA-27-1834,Glioblastoma multiforme,G4,56,LGm5
+TCGA-27-1835,Glioblastoma multiforme,G4,53,LGm5
+TCGA-27-1836,Glioblastoma multiforme,G4,33,LGm5
+TCGA-27-1837,Glioblastoma multiforme,G4,36,LGm5
+TCGA-27-1838,Glioblastoma multiforme,G4,59,LGm5
+TCGA-27-2518,Glioblastoma multiforme,G4,52,LGm4
+TCGA-27-2519,Glioblastoma multiforme,G4,48,LGm5
+TCGA-27-2521,Glioblastoma multiforme,G4,34,LGm1
+TCGA-27-2523,Glioblastoma multiforme,G4,63,LGm4
+TCGA-27-2524,Glioblastoma multiforme,G4,56,LGm5
+TCGA-27-2526,Glioblastoma multiforme,G4,79,LGm5
+TCGA-27-2527,Glioblastoma multiforme,G4,81,LGm5
+TCGA-27-2528,Glioblastoma multiforme,G4,62,LGm4
+TCGA-28-1745,Glioblastoma multiforme,G4,76,LGm5
+TCGA-28-1746,Glioblastoma multiforme,G4,77,LGm5
+TCGA-28-1747,Glioblastoma multiforme,G4,44,LGm5
+TCGA-28-1749,Glioblastoma multiforme,G4,73,LGm5
+TCGA-28-1750,Glioblastoma multiforme,G4,40,LGm4
+TCGA-28-1751,Glioblastoma multiforme,G4,61,LGm5
+TCGA-28-1752,Glioblastoma multiforme,G4,42,LGm5
+TCGA-28-1753,Glioblastoma multiforme,G4,53,LGm5
+TCGA-28-1755,Glioblastoma multiforme,G4,52,LGm5
+TCGA-28-1756,Glioblastoma multiforme,G4,78,LGm3
+TCGA-28-1757,Glioblastoma multiforme,G4,71,LGm5
+TCGA-28-1760,Glioblastoma multiforme,G4,48,LGm5
+TCGA-28-2499,Glioblastoma multiforme,G4,59,LGm4
+TCGA-28-2501,Glioblastoma multiforme,NA,NA,LGm5
+TCGA-28-2502,Glioblastoma multiforme,G4,65,LGm5
+TCGA-28-2506,Glioblastoma multiforme,G4,63,LGm5
+TCGA-28-2509,Glioblastoma multiforme,G4,77,LGm4
+TCGA-28-2510,Glioblastoma multiforme,NA,NA,LGm6
+TCGA-28-2512,Glioblastoma multiforme,G4,37,LGm6
+TCGA-28-2513,Glioblastoma multiforme,G4,69,LGm5
+TCGA-28-2514,Glioblastoma multiforme,G4,45,LGm5
+TCGA-28-5204,Glioblastoma multiforme,G4,72,LGm4
+TCGA-28-5207,Glioblastoma multiforme,G4,71,LGm5
+TCGA-28-5208,Glioblastoma multiforme,G4,52,LGm4
+TCGA-28-5209,Glioblastoma multiforme,G4,66,LGm4
+TCGA-28-5211,Glioblastoma multiforme,G4,42,LGm5
+TCGA-28-5213,Glioblastoma multiforme,G4,72,LGm5
+TCGA-28-5214,Glioblastoma multiforme,G4,53,LGm4
+TCGA-28-5215,Glioblastoma multiforme,G4,62,LGm5
+TCGA-28-5216,Glioblastoma multiforme,G4,52,LGm5
+TCGA-28-5218,Glioblastoma multiforme,G4,63,LGm6
+TCGA-28-5219,Glioblastoma multiforme,G4,47,LGm5
+TCGA-28-5220,Glioblastoma multiforme,G4,67,LGm5
+TCGA-28-6450,Glioblastoma multiforme,G4,60,LGm4
+TCGA-32-1970,Glioblastoma multiforme,G4,59,LGm5
+TCGA-32-1973,Glioblastoma multiforme,G4,21,LGm6
+TCGA-32-1976,Glioblastoma multiforme,G4,65,LGm5
+TCGA-32-1977,Glioblastoma multiforme,G4,63,LGm4
+TCGA-32-1978,Glioblastoma multiforme,G4,57,LGm4
+TCGA-32-1979,Glioblastoma multiforme,G4,69,LGm4
+TCGA-32-1980,Glioblastoma multiforme,G4,72,LGm6
+TCGA-32-1982,Glioblastoma multiforme,G4,76,LGm4
+TCGA-32-1986,Glioblastoma multiforme,G4,68,LGm5
+TCGA-32-1987,Glioblastoma multiforme,G4,49,LGm5
+TCGA-32-1991,Glioblastoma multiforme,G4,60,LGm5
+TCGA-32-2491,Glioblastoma multiforme,G4,63,LGm5
+TCGA-32-2494,Glioblastoma multiforme,G4,58,LGm5
+TCGA-32-2495,Glioblastoma multiforme,G4,59,LGm4
+TCGA-32-2498,Glioblastoma multiforme,NA,NA,LGm6
+TCGA-32-2615,Glioblastoma multiforme,G4,62,LGm5
+TCGA-32-2616,Glioblastoma multiforme,G4,48,LGm5
+TCGA-32-2632,Glioblastoma multiforme,G4,80,LGm5
+TCGA-32-2634,Glioblastoma multiforme,G4,82,LGm4
+TCGA-32-2638,Glioblastoma multiforme,G4,67,LGm4
+TCGA-32-4208,Glioblastoma multiforme,G4,25,LGm3
+TCGA-32-4209,Glioblastoma multiforme,G4,40,LGm5
+TCGA-32-4210,Glioblastoma multiforme,G4,73,LGm5
+TCGA-32-4211,Glioblastoma multiforme,G4,56,LGm4
+TCGA-32-4213,Glioblastoma multiforme,G4,47,LGm5
+TCGA-32-4719,Glioblastoma multiforme,G4,73,LGm4
+TCGA-32-5222,Glioblastoma multiforme,G4,66,LGm4
+TCGA-41-2571,Glioblastoma multiforme,G4,89,LGm5
+TCGA-41-2572,Glioblastoma multiforme,G4,67,LGm4
+TCGA-41-2573,Glioblastoma multiforme,G4,59,LGm5
+TCGA-41-2575,Glioblastoma multiforme,G4,75,LGm5
+TCGA-41-3392,Glioblastoma multiforme,G4,88,LGm5
+TCGA-41-3393,Glioblastoma multiforme,G4,81,LGm4
+TCGA-41-3915,Glioblastoma multiforme,G4,48,LGm5
+TCGA-41-4097,Glioblastoma multiforme,G4,63,LGm4
+TCGA-41-5651,Glioblastoma multiforme,G4,59,LGm4
+TCGA-41-6646,Glioblastoma multiforme,G4,73,LGm4
+TCGA-4W-AA9R,Glioblastoma multiforme,NA,NA,LGm4
+TCGA-4W-AA9S,Glioblastoma multiforme,G4,69,LGm4
+TCGA-4W-AA9T,Glioblastoma multiforme,G4,54,LGm4
+TCGA-74-6573,Glioblastoma multiforme,G4,67,LGm5
+TCGA-74-6575,Glioblastoma multiforme,G4,73,LGm5
+TCGA-74-6577,Glioblastoma multiforme,G4,51,LGm5
+TCGA-74-6578,Glioblastoma multiforme,G4,58,LGm5
+TCGA-74-6581,Glioblastoma multiforme,G4,77,LGm4
+TCGA-74-6584,Glioblastoma multiforme,G4,55,LGm5
+TCGA-76-4925,Glioblastoma multiforme,G4,76,LGm4
+TCGA-76-4926,Glioblastoma multiforme,G4,68,LGm5
+TCGA-76-4927,Glioblastoma multiforme,G4,58,LGm4
+TCGA-76-4928,Glioblastoma multiforme,G4,85,LGm5
+TCGA-76-4929,Glioblastoma multiforme,G4,76,LGm4
+TCGA-76-4931,Glioblastoma multiforme,G4,70,LGm5
+TCGA-76-4932,Glioblastoma multiforme,G4,50,LGm4
+TCGA-76-4934,Glioblastoma multiforme,G4,66,LGm6
+TCGA-76-4935,Glioblastoma multiforme,G4,52,LGm5
+TCGA-76-6191,Glioblastoma multiforme,G4,57,LGm5
+TCGA-76-6192,Glioblastoma multiforme,G4,74,LGm5
+TCGA-76-6193,Glioblastoma multiforme,G4,78,LGm5
+TCGA-76-6280,Glioblastoma multiforme,G4,57,LGm4
+TCGA-76-6282,Glioblastoma multiforme,G4,63,LGm5
+TCGA-76-6283,Glioblastoma multiforme,NA,NA,LGm4
+TCGA-76-6285,Glioblastoma multiforme,G4,64,LGm5
+TCGA-76-6286,Glioblastoma multiforme,G4,60,LGm4
+TCGA-76-6656,Glioblastoma multiforme,G4,66,LGm4
+TCGA-76-6657,Glioblastoma multiforme,G4,74,LGm4
+TCGA-76-6660,Glioblastoma multiforme,NA,NA,LGm4
+TCGA-76-6661,Glioblastoma multiforme,G4,54,LGm4
+TCGA-76-6662,Glioblastoma multiforme,G4,58,LGm4
+TCGA-76-6663,Glioblastoma multiforme,G4,44,LGm4
+TCGA-76-6664,Glioblastoma multiforme,G4,49,LGm5
+TCGA-81-5910,Glioblastoma multiforme,G4,64,LGm5
+TCGA-81-5911,Glioblastoma multiforme,G4,33,LGm4
+TCGA-87-5896,Glioblastoma multiforme,G4,50,LGm4
+TCGA-OX-A56R,Glioblastoma multiforme,G4,68,LGm5
+TCGA-RR-A6KA,Glioblastoma multiforme,G4,72,LGm5
+TCGA-RR-A6KB,Glioblastoma multiforme,NA,NA,LGm5
+TCGA-RR-A6KC,Glioblastoma multiforme,G4,55,LGm4
