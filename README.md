@@ -1,16 +1,4 @@
-# Comp_genomics
+# Abstract
 
-# Creating Table
-
-Download the data , almost 691 files shared
-
-Combine all of that data in one table with patient's gene names as first column rows and RNA expression values on separate  columns
-
-Replace the patient's gene names with thier corresponding HGSV symbol using EnsembletoGeneID.txt file provided
-
-Make a separate table. Replace the file names of the data with it's corresponding TCGA ID values from "FileNameTCGAidtable" provided
-
-Categorize this data as 'Normal' or 'Tumor' using 'cases_0_samples_0_sample_type' column from FileNameTCGAidtable file
-
-Now, use "mmcs" file and add the corresponding details into the data [preferably only GLioma subtypesm lgm123 and lgm456]
+In this project, 691 instances of glioma cases are examined for more than 5000 different genes to find out important genes which would be responsible for glioma cases by carrying out t-test for normal and tumor cells. We also examined which genes would be responsible for Glioblastoma (grade IV glioma) via carrying out t-test for grade IV and grade II and III patients. Data is derived from TCGA project. Finally we tried to find out whether there exist a linear relationship between age and expression level of genes that would be responsible for cancer cases via carrying out a regression analysis for every single gene and age.
 
